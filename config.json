@@ -1,0 +1,9 @@
+
+{
+    "openai_api_key": "your-openai-api-key",
+    "assistant_id": "your-assistant-id",
+    "assistant_name": "AutoExpert",
+    "knowledge_file_path": "/path/to/knowledge_file.json",
+    "system_prompt": "Hello, how can I assist you today?",
+    "email": "your-email@example.com"
+}
